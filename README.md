@@ -2,7 +2,7 @@
  
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/cm-dS4ipBUMAAAAC/grok-chatgpt.gif">">
 - 🔭 I’m currently working on **dynamic ai on weather forcasting**
 
 - 🌱 I’m currently learning **ai**
